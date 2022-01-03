@@ -1,0 +1,9 @@
+img {
+    max-width: 100%
+}
+
+.well {
+    padding: 10px;
+    margin-bottom: 20px;
+    background-color: #eee;
+}
